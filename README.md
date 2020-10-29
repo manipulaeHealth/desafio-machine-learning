@@ -6,7 +6,7 @@ O objetivo do teste é prever o valor da coluna "correto" com menor erro possív
 
 dos 7121 pontos de dados, podem usar no máximo os primeiros 5121 dados do dataset para prever os últimos 2000 
 
-> podem usar o link https://raw.githubusercontent.com/manipulaeHealth/desafio-machine-learning/main/dados_preco.csv para baixar direto 
+> podem usar o link https://raw.githubusercontent.com/manipulaeHealth/desafio-machine-learning/main/dados_preco.csv para baixar direto no pandas
 
 # Orientações
 
