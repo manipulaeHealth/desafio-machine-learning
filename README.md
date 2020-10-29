@@ -23,20 +23,11 @@ dos 7121 pontos de dados, podem usar no máximo os primeiros 5121 dados do datas
 
 descrição da formula, seguindo o padrão: 
 
-  
-
     qtd unidade_volume | insumos separados por ';' 
-
-     
-
+    
     a unidade de volume vai ser sempre CAP no dataset 
-
-  
-
+    
     os insumos vão ter o padrão: 
-
-  
-
         nome do insumo qtdunidade;  
 
         ex: zinco quelado 20mg; 
