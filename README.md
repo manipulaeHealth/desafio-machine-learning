@@ -8,12 +8,12 @@ dos 7121 pontos de dados, podem usar no máximo os primeiros 5121 dados do datas
 
 > podem usar o link https://raw.githubusercontent.com/manipulaeHealth/desafio-machine-learning/main/dados_preco.csv para baixar direto 
 
-- Orienteações
+# Orientações
 
-está livre o uso de qualquer ferramenta de aprendizado de máquina, o ideal seria usar python com alguma biblioteca de machine learning. 
-Necessário disponibilizar o código de forma que consigamos reproduzir o que foi feito, pode ser em um repositório ou notebook no colab research. 
+- Está livre o uso de qualquer ferramenta de aprendizado de máquina, o ideal seria usar python com alguma biblioteca de machine learning. 
+- Necessário disponibilizar o código de forma que consigamos reproduzir o que foi feito, pode ser em um repositório ou notebook no colab research. 
 
-# Colunas: 
+# Colunas do Dataset: 
 
   
 
