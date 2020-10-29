@@ -10,8 +10,8 @@ dos 7121 pontos de dados, podem usar no máximo os primeiros 5121 dados do datas
 
 # Orientações
 
-- Está livre o uso de qualquer ferramenta de aprendizado de máquina, o ideal seria usar python com alguma biblioteca de machine learning. 
-- Necessário disponibilizar o código de forma que consigamos reproduzir o que foi feito, pode ser em um repositório ou notebook no colab research. 
+- Está livre o uso de qualquer ferramenta de aprendizado de máquina, o ideal seria usar python com alguma biblioteca de machine learning;
+- Necessário disponibilizar o código de forma que consigamos reproduzir o que foi feito, pode ser em um repositório ou notebook no colab research;
 
 # Colunas do Dataset: 
 
