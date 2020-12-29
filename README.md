@@ -10,8 +10,12 @@ dos 7121 pontos de dados, podem usar no máximo os primeiros 5121 dados do datas
 
 # Orientações
 
-- Necessário usar Python, mas fica livre o uso de qualquer biblioteca;
+- Necessário usar Python, ficando livre o uso de qualquer biblioteca;
 - Necessário disponibilizar o código de forma que consigamos reproduzir o que foi feito, pode ser em um repositório ou notebook no colab research;
+
+## Diferencial Opcional
+
+Se possível fazer um relatório usando Power BI para análises no Dataset e compartilhar o pbx depois.
 
 # Colunas do Dataset: 
 
